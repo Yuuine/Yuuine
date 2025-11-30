@@ -1,10 +1,10 @@
 ## GitHub Stats
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuuine&show_icons=true&theme=cobalt)
+![Yuuine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuuine&show_icons=true&theme=cobalt)
 
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=java,c#,js,go,python)
+![Languages](https://skillicons.dev/icons?i=java,c#,go)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=vue,html,css,node)
