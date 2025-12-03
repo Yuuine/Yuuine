@@ -25,6 +25,4 @@
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,idea,gitlab)
 
-#### GitHub 3D Contribution Graph
-![](./profile-3d-contrib/profile-green.svg)
 
