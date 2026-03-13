@@ -1,3 +1,6 @@
+## Overview
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuine&layout=compact&theme=default)
+
 ## Activity
 ![Yuuine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuuine)
 
