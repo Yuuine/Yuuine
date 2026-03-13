@@ -9,7 +9,9 @@
 </picture>
 
 ## Overview
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuine&layout=compact&theme=default)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuine&layout=donut&langs_count=8&hide_border=true" alt="Top Languages">
+</div>
 
 ## Skills
 
