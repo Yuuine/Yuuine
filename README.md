@@ -9,7 +9,7 @@
 </picture>
 
 ## Overview
-<![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yuuine&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yuuine&layout=compact&theme=radical)
 
 ## Skills
 
