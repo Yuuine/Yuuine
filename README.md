@@ -10,7 +10,7 @@
 
 ## Overview
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuine&layout=donut&langs_count=8&hide_border=true" alt="Top Languages">
+  <![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yuuine&layout=compact&theme=radical)
 </div>
 
 ## Skills
